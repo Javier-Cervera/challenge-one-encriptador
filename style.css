@@ -32,7 +32,7 @@ main {
 
 .mensaje {
   height: 80vh;
-  background: #ffffff url("/imagenes/resultado.png") no-repeat center;
+  background: #ffffff url("./imagenes/resultado.png") no-repeat center;
   border: none;
   border-radius: 24px;
   color: #0a3871;
